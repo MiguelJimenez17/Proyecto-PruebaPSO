@@ -1,0 +1,67 @@
+* {
+  padding: 0;
+  margin: 0;
+}
+
+#elements {
+  margin-top: 1cm;
+  border: 3px solid #00ad00;
+  border-radius: 10px;
+  max-width: 100%;
+  background-color: #fff;
+  padding: 30px;
+}
+
+#logoSena {
+  display: flex;
+  justify-content: center;
+}
+
+#title-home {
+  color: #00ad00;
+}
+
+#form {
+  margin: auto;
+}
+
+#text-form {
+  color: #fff;
+}
+
+#card-form {
+  background-color: #00ad00;
+}
+
+#input-document::placeholder {
+  color: #00ad00;
+}
+
+#input-password::placeholder {
+  color: #00ad00;
+  margin-top: 10px;
+}
+
+.btn {
+  display: flex;
+  justify-content: center;
+  border: none;
+}
+
+#btn-success {
+  margin-top: 10px;
+  background-color: #fff;
+  color: #00ad00;
+}
+
+/* validaciones javascript */
+
+#alert {
+  color: red;
+}
+
+@media (max-width: 600px) {
+  #logoSena {
+    margin-bottom: 20px;
+  }
+}

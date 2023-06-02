@@ -1,0 +1,1 @@
+INSERT INTO `usuario`(`tipo_doc_user`, `doc_user`, `pass_user`, `nombre_user`, `id_rol_2`, `puntaje_prueba`) VALUES ('TI', 1044394567, '1044394567', 'Noelia redondo ortiz', 2, 0)

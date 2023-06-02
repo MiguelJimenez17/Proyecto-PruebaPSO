@@ -1,0 +1,46 @@
+/* estilos de la barra de busqueda */
+#new-asp {
+  display: flex;
+  justify-content: space-around;
+  margin-bottom: 20px;
+  margin-top: 20px;
+}
+
+#btn-search {
+  background-color: #00ad00;
+  border: none;
+  color: #fff;
+}
+
+#btn-new-asp {
+  height: 40px;
+  margin: auto;
+  background-color: #00ad00;
+  border: none;
+}
+
+#btn-search:hover {
+  background-color: darkseagreen;
+}
+
+#btn-new-asp:hover {
+  background-color: darkseagreen;
+}
+
+/* Estilos del modal para registrar nuevo usuario*/
+
+.modal-title {
+  color: #00ad00;
+}
+
+#form-new-asp{
+  margin: 10px;
+}
+
+#option-document{
+  margin-bottom: 10px;
+}
+
+.form-group{
+  margin-bottom: 10px;
+}
